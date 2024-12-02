@@ -52,3 +52,27 @@
         Date & Time: 2024-11-30 13:52:20
         ============================
         
+
+
+Customer Name: AMRUT
+Connection ID: 123456
+Units Consumed: 124
+Total Amount Paid: ₹558.0
+Payment Method: Cash
+Date: 2024-12-03 00:43:45
+
+---
+Customer Name: AMRUT
+Connection ID: 123456
+Units Consumed: 123
+Total Amount Paid: ₹553.5
+Payment Method: Cash
+Date: 2024-12-03 00:58:39
+
+---
+Customer Name: KIRAN I T
+Connection ID: 696969
+Units Consumed: 100
+Total Amount Paid: ₹300.0
+Payment Method: Credit Card
+Date: 2024-12-03 01:21:31
