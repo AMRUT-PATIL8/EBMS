@@ -1,1 +1,2 @@
 696969,KIRAN I T,kit@gmail.com,Gajendragad
+123456,AMRUT,amrut@gmail.com,bagalkot
