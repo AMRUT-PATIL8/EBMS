@@ -1,0 +1,54 @@
+
+        ===== Payment Receipt =====
+        Connection ID: 696969
+        Name: KIRAN I T
+        Units Consumed: 120
+        Total Bill: ₹540.0
+        Payment Method: UPI
+        Date & Time: 2024-11-30 13:15:29
+        ==========================
+        
+------------------------------
+
+        ===== Payment Receipt =====
+        Connection ID: 696969
+        Name: KIRAN I T
+        Units Consumed: 120
+        Total Bill: ₹540.0
+        Payment Method: UPI
+        Date & Time: 2024-11-30 13:17:41
+        ==========================
+        
+------------------------------
+
+        ===== Payment Receipt =====
+        Connection ID: 696969
+        Name: KIRAN I T
+        Units Consumed: 120
+        Total Bill: ₹540.0
+        Payment Method: Credit Card
+        Date & Time: 2024-11-30 13:40:58
+        ==========================
+        
+------------------------------
+
+        ===== Payment Receipt =====
+        Connection ID: 696969
+        Name: KIRAN I T
+        Units Consumed: 432
+        Total Bill: ₹2592.0
+        Payment Method: UPI
+        Date & Time: 2024-11-30 13:47:41
+        ==========================
+        
+------------------------------
+
+        ===== Payment Receipt =====
+        Connection ID: 696969
+        Name: KIRAN I T
+        Units Consumed: 100
+        Total Bill: ₹300.0
+        Payment Method: UPI
+        Date & Time: 2024-11-30 13:52:20
+        ============================
+        
